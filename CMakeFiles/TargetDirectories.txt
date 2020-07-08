@@ -1,0 +1,3 @@
+/Users/davidfekke/Documents/cplusplus/projects/donut/CMakeFiles/rebuild_cache.dir
+/Users/davidfekke/Documents/cplusplus/projects/donut/CMakeFiles/edit_cache.dir
+/Users/davidfekke/Documents/cplusplus/projects/donut/CMakeFiles/donut.dir
