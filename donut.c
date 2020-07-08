@@ -1,6 +1,7 @@
 /**
- * 
- * 
+ * A C program by Lex Fridman
+ * This is the example he had on YouTube
+ * https://www.youtube.com/watch?v=DEqXNfs_HhY
  */
 
 #include <stdio.h>
