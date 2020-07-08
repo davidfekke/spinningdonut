@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/donut.dir/donut.c.o"
-  "donut.pdb"
   "donut"
+  "donut.pdb"
 )
 
 # Per-language clean rules from dependency scanning.

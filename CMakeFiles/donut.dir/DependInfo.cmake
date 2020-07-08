@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/davidfekke/Documents/cplusplus/projects/donut/donut.c" "/Users/davidfekke/Documents/cplusplus/projects/donut/CMakeFiles/donut.dir/donut.c.o"
+  "/Users/davidfekke/Documents/cplusplus/projects/spinningdonut/donut.c" "/Users/davidfekke/Documents/cplusplus/projects/spinningdonut/CMakeFiles/donut.dir/donut.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

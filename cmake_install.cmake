@@ -1,4 +1,4 @@
-# Install script for directory: /Users/davidfekke/Documents/cplusplus/projects/donut
+# Install script for directory: /Users/davidfekke/Documents/cplusplus/projects/spinningdonut
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/davidfekke/Documents/cplusplus/projects/donut/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/davidfekke/Documents/cplusplus/projects/spinningdonut/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
