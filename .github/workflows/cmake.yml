@@ -16,9 +16,10 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Configure CMake
-      run: cmake .
-
-    - name: Build
-      run: make
-
+    - name: build using clang
+      run: clang donut.c -o donut
+    - name: Upload executable
+      uses: actions/upload-artifact@v2
+      with:
+        name: donut
+        path: donut
