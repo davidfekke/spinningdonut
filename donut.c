@@ -5,6 +5,10 @@
  */
 
 #include <stdio.h>
+#include <math.h>
+#include <pthread.h>
+#include <string.h>
+#define _BSD_SOURCE
 
 int main() {
     float A = 0, B = 0;

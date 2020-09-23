@@ -17,7 +17,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: build using clang
-      run: clang donut.c -o donut
+      run: clang donut.c -pedantic -pthread -lm -o donut
     - name: Upload executable
       uses: actions/upload-artifact@v2
       with:
